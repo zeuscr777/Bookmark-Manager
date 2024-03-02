@@ -1,0 +1,32 @@
+{
+  "menu": 
+  {
+    "file": "Plik",
+    "import": "Importuj",
+    "export": "Eksportuj",
+    "new": "Nowy",
+    "settings": "Ustawienia",
+    "change_theme": "Zmień motyw",
+    "change_language": "Zmień język",
+    "program": "Program",
+    "about": "O autorze"
+  },
+  "buttons": {
+    "save": "Zapisz",
+    "add_bookmark": "+"
+  },
+  "window_titles": {
+	"main_window": "Bookmark Manager",
+    "add_new_bookmark": "Dodaj nową zakładkę"
+  },
+  "labels": {
+    "name": "Nazwa",
+    "category": "Kategoria",
+    "url": "URL",
+    "browser": "Przeglądarka",
+    "description": "Opis"
+  },
+  "messages": {
+    "about_text": "Twój program do zarządzania zakładkami.\nAutor: Twoje Imię"
+  }
+}

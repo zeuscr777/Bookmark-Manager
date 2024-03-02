@@ -1,0 +1,32 @@
+{
+    "menu": 
+    {
+      "file": "Datei",
+      "import": "Importieren",
+      "export": "Exportieren",
+      "settings": "Einstellungen",
+      "change_theme": "Thema ändern",
+      "change_language": "Sprache ändern",
+      "program": "Programm",
+      "about": "Über"
+    },
+    "buttons": {
+      "save": "Speichern",
+      "add_bookmark": "+"
+    },
+    "window_titles": {
+      "main_window": "Bookmark Manager",
+      "add_new_bookmark": "Neues Lesezeichen hinzufügen"
+    },
+    "labels": {
+      "name": "Name",
+      "category": "Kategorie",
+      "url": "URL",
+      "browser": "Browser",
+      "description": "Beschreibung"
+    },
+    "messages": {
+      "about_text": "Ihr Programm zur Verwaltung von Lesezeichen.\nAutor: Ihr Name"
+    }
+  }
+  

@@ -1,0 +1,31 @@
+{
+    "menu": 
+    {
+      "file": "File",
+      "import": "Import",
+      "export": "Export",
+      "settings": "Settings",
+      "change_theme": "Change Theme",
+      "change_language": "Change Language",
+      "program": "Program",
+      "about": "About"
+    },
+    "buttons": {
+      "save": "Save",
+      "add_bookmark": "+"
+    },
+    "window_titles": {
+      "main_window": "Bookmark Manager",
+      "add_new_bookmark": "Add New Bookmark"
+    },
+    "labels": {
+      "name": "Name",
+      "category": "Category",
+      "url": "URL",
+      "browser": "Browser",
+      "description": "Description"
+    },
+    "messages": {
+      "about_text": "Your program for managing bookmarks.\nAuthor: Your Name"
+    }
+}  
